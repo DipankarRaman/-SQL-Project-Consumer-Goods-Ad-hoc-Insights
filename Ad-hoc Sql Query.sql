@@ -37,7 +37,7 @@ GROUP BY segment
 ORDER BY product_count DESC;
 
 
-# 4. Follow-up: Which segment had the most increase in unique products in 2021 vs 2020?
+# 4. Follow-up: Which segment had the most increase in unique products in 2024 vs 2023?
 
 
 WITH cte2023 AS (
